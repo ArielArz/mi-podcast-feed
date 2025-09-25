@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-<channel>
-  <title>Podcast Automático</title>
-  <link>https://tupodcast.com</link>
-  <language>es</language>
-  <itunes:author>Automatización</itunes:author>
-  <itunes:explicit>no</itunes:explicit>
-  <description>Podcast generado automáticamente con n8n.</description>
-
-  <item>
-    <title>Episodio sin título</title>
-    <description>Descripción no disponible</description>
-    <enclosure url="https://pcbvavmwvslvkohzfnxh.supabase.co/storage/v1/object/public/podcast/audios/undefined" type="audio/mpeg"/>
-    <guid>https://pcbvavmwvslvkohzfnxh.supabase.co/storage/v1/object/public/podcast/audios/undefined</guid>
-    <pubDate>Thu, 25 Sep 2025 13:18:33 GMT</pubDate>
-  </item>
-</channel>
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcast Automático</title>
+    <link>https://arielarz.github.io/mi-podcast-feed/</link>
+    <atom:link href="https://arielarz.github.io/mi-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>es</language>
+    <copyright>© 2025 Ariel</copyright>
+    <description>Podcast generado automáticamente con n8n.</description>
+    <itunes:author>Ariel</itunes:author>
+    <itunes:owner>
+      <itunes:name>Ariel</itunes:name>
+      <itunes:email>arielarzamendia@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://arielarz.github.io/mi-podcast-feed/artwork.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+    <item>
+      <title>Episodio sin título</title>
+      <description><![CDATA[Descripción no disponible]]></description>
+      <enclosure url="undefined" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">undefined#1758808327521</guid>
+      <pubDate>Thu, 25 Sep 2025 13:52:07 GMT</pubDate>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
 </rss>
