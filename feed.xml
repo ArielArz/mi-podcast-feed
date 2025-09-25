@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Mi Podcast</title>
+    <link>https://USUARIO.github.io/podcast-feed/feed.xml</link>
+    <language>es-es</language>
+    <copyright>© 2025 Ariel</copyright>
+    <description>Descripción general de mi podcast</description>
+    <itunes:author>Ariel</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://misitio.com/cover.jpg"/>
+    <itunes:category text="Education"/>
+
+    <item>
+      <title>Episodio de prueba</title>
+      <description>Este es un episodio inicial creado manualmente.</description>
+      <enclosure url="https://storage.googleapis.com/miaudio.mp3" type="audio/mpeg"/>
+      <guid>episodio-1</guid>
+      <pubDate>Thu, 25 Sep 2025 09:00:00 GMT</pubDate>
+      <itunes:duration>120</itunes:duration>
+    </item>
+  </channel>
+</rss>
