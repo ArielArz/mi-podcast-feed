@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:media="http://search.yahoo.com/mrss/">
-  <channel>
-    <title>Mi Podcast</title>
-    <link>https://USUARIO.github.io/podcast-feed/feed.xml</link>
-    <language>es-es</language>
-    <copyright>© 2025 Ariel</copyright>
-    <description>Descripción general de mi podcast</description>
-    <itunes:author>Ariel</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://misitio.com/cover.jpg"/>
-    <itunes:category text="Education"/>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Podcast Automático</title>
+  <link>https://tupodcast.com</link>
+  <language>es</language>
+  <itunes:author>Automatización</itunes:author>
+  <itunes:explicit>no</itunes:explicit>
+  <description>Podcast generado automáticamente con n8n.</description>
 
-    <item>
-      <title>Episodio de prueba</title>
-      <description>Este es un episodio inicial creado manualmente.</description>
-      <enclosure url="https://storage.googleapis.com/miaudio.mp3" type="audio/mpeg"/>
-      <guid>episodio-1</guid>
-      <pubDate>Thu, 25 Sep 2025 09:00:00 GMT</pubDate>
-      <itunes:duration>120</itunes:duration>
-    </item>
-  </channel>
+  <item>
+    <title>Episodio sin título</title>
+    <description>Descripción no disponible</description>
+    <enclosure url="https://pcbvavmwvslvkohzfnxh.supabase.co/storage/v1/object/public/podcast/audios/undefined" type="audio/mpeg"/>
+    <guid>https://pcbvavmwvslvkohzfnxh.supabase.co/storage/v1/object/public/podcast/audios/undefined</guid>
+    <pubDate>Thu, 25 Sep 2025 13:18:33 GMT</pubDate>
+  </item>
+</channel>
 </rss>
