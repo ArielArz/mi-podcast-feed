@@ -16,13 +16,15 @@
     </itunes:owner>
     <itunes:image href="https://arielarz.github.io/mi-podcast-feed/artwork.jpg"/>
     <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology"/>
     
     <item>
       <title>Episodio sin título</title>
       <description><![CDATA[Descripción no disponible]]></description>
-      <enclosure url="undefined" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">undefined#1758808327521</guid>
-      <pubDate>Thu, 25 Sep 2025 13:52:07 GMT</pubDate>
+      <link>https://arielarz.github.io/mi-podcast-feed/audio-placeholder.mp3</link>
+      <enclosure url="https://arielarz.github.io/mi-podcast-feed/audio-placeholder.mp3" length="1" type="audio/mpeg"/>
+      <guid isPermaLink="false">undefined#1758893737890</guid>
+      <pubDate>Fri, 26 Sep 2025 13:35:37 GMT</pubDate>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
