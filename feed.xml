@@ -14,7 +14,7 @@
       <itunes:name>Ariel</itunes:name>
       <itunes:email>arielarzamendia@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://arielarz.github.io/mi-podcast-feed/artwork.jpg"/>
+    <itunes:image href="https://arielarz.github.io/mi-podcast-feed/artwork.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     
@@ -23,8 +23,8 @@
       <description><![CDATA[Descripción no disponible]]></description>
       <link>https://arielarz.github.io/mi-podcast-feed/audio-placeholder.mp3</link>
       <enclosure url="https://arielarz.github.io/mi-podcast-feed/audio-placeholder.mp3" length="1" type="audio/mpeg"/>
-      <guid isPermaLink="false">undefined#1759327011068</guid>
-      <pubDate>Wed, 01 Oct 2025 13:56:51 GMT</pubDate>
+      <guid isPermaLink="false">undefined#1759328958699</guid>
+      <pubDate>Wed, 01 Oct 2025 14:29:18 GMT</pubDate>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
