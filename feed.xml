@@ -20,15 +20,15 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 17 Oct 2025 12:51:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 13:01:54 GMT</lastBuildDate>
     <generator>n8n automation</generator>
     <item>
       <title>Episodio sin título</title>
       <description><![CDATA[Descripción del episodio generada automáticamente]]></description>
       <link>https://github.com/ArielArz/mi-podcast-feed</link>
-      <enclosure url="https://raw.githubusercontent.com/ArielArz/mi-podcast-feed/main/audio/episodio-sin-titulo-1760705514707.mp3" length="261269" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/ArielArz/mi-podcast-feed/main/audio/episodio-sin-titulo-1760705514707.mp3</guid>
-      <pubDate>Fri, 17 Oct 2025 12:51:54 GMT</pubDate>
+      <enclosure url="https://arielarz.github.io/mi-podcast-feed/audio/episodio-sin-titulo-1760706112734.mp3" length="261269" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://arielarz.github.io/mi-podcast-feed/audio/episodio-sin-titulo-1760706112734.mp3</guid>
+      <pubDate>Fri, 17 Oct 2025 13:01:52 GMT</pubDate>
       <itunes:duration>00:14</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
